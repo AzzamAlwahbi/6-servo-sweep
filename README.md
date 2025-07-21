@@ -4,19 +4,21 @@
 ![6-servo-sweep](6servo-sweep.png)
 
 ## Features
+- Synchronized control of 6 servo motors
 
-Synchronized control of 6 servo motors
+- Non-blocking timing using millis()
 
-Non-blocking timing using millis()
+- Smooth sweeping motion between 0°-180°
 
-Smooth sweeping motion between 0°-180°
+- Automatic transition to hold position
 
-Automatic transition to hold position
-
-Foundation for humanoid robot locomotion
+- Foundation for humanoid robot locomotion
 
 ## Component Used
-Arduino Uno R3 - The main microcontroller board
-Servo Motors (6x) - Standard hobby servos
-Jumper Wires 
-External power supply
+- Arduino Uno R3 - The main microcontroller board
+
+- Servo Motors (6x) - Standard hobby servos
+  
+- Jumper Wires
+
+- External power supply
