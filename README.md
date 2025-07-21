@@ -15,3 +15,8 @@ Automatic transition to hold position
 
 Foundation for humanoid robot locomotion
 
+## Component Used
+Arduino Uno R3 - The main microcontroller board
+Servo Motors (6x) - Standard hobby servos
+Jumper Wires 
+External power supply
